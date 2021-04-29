@@ -3,7 +3,7 @@
 
 # 개요
 ![슬라이드2](https://user-images.githubusercontent.com/76520025/116525523-912c3b80-a913-11eb-9ec8-911e1ecbef71.JPG)
-![슬라이드3](https://user-images.githubusercontent.com/76520025/116525526-91c4d200-a913-11eb-9d7f-4156c090a0cc.JPG)<br/><br/>
+![슬라이드3](https://user-images.githubusercontent.com/76520025/116525526-91c4d200-a913-11eb-9d7f-4156c090a0cc.JPG)<br/><br/><br/>
 
 # 결과
 ![슬라이드6](https://user-images.githubusercontent.com/76520025/116525527-925d6880-a913-11eb-9358-3074e6390a3b.JPG)
