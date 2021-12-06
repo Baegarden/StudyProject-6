@@ -1,6 +1,10 @@
 # StudyProject-6
 📟 <strong>라즈베리파이(Raspberry Pi)를 이용한 응용프로그램 구현 - "영문타자배틀"</strong><br><br><br>
 
+> ### 실행 영상
+https://youtu.be/fiVIYTekSDY
+<br/><br/><br/>
+
 > ### 개요
 ![슬라이드2](https://user-images.githubusercontent.com/76520025/116525523-912c3b80-a913-11eb-9ec8-911e1ecbef71.JPG)
 ![슬라이드3](https://user-images.githubusercontent.com/76520025/116525526-91c4d200-a913-11eb-9d7f-4156c090a0cc.JPG)
